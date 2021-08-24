@@ -118,6 +118,9 @@ uH, y una inductancia de 10 uH está conectada en paralelo con la combinación e
 
 ![image](https://user-images.githubusercontent.com/85320165/130700273-65b82d2e-d178-418b-b197-2d73ffc1ee78.png)
 
+25. Para los circuitos de la figura 13-40, determine L3 y L4
+
+![image](https://user-images.githubusercontent.com/85320165/130701083-9403404b-61f8-4553-83f4-d29b6124f974.png)
 
 
 
