@@ -116,24 +116,11 @@ c. ¿Cuál es la corriente en t 10 s?
 
 # 5. CONCLUSIONES
 
+Determinamos que Para calcular el voltaje y corriente de un inductor cuando el circuito adquiere el estado estable. Primero se ubica los inductores como un cortocircuito, se calcula el voltaje, corriente y resistencia como un circuito cualquiera y a partir de ahí se aplica cualquier método para la resolución de circuitos y con ello se obtiene voltaje y corriente de un inductor.
+
+Conclusimos que La constante de tiempo es un dato muy importante en el análisis temporal (en el tiempo) de circuitos RL ya que un indicador de la velocidad de reacción del circuito ante una perturbación, y para calcularla se usa la inductancia y la resistencia.
 
 # 6. BIBLIOGRAFIA
 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
