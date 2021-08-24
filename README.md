@@ -58,11 +58,14 @@ Anañizar  y sintetizar el estudio o  el tema de la inductancia  e inductores ad
 
 
 
-# 4.
+# 4. VIDEO
 
-# 5.
+# 5. CONCLUSIONES
 
-# 6.
+
+# 6. BIBLIOGRAFIA
+
+Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
 
 
 
