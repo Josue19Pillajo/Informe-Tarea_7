@@ -85,6 +85,42 @@ c. ¿Cuál es la corriente en t 10 s?
 
 ![22](https://user-images.githubusercontent.com/84783236/130696607-70f12bf6-fb09-4dbe-968d-4c3fafbc6ef8.png)
 
+19. Repita el problema 17 si las inductancias están conectadas en paralelo.
+
+![image](https://user-images.githubusercontent.com/85320165/130699518-48cab83f-0f09-49e2-bcc2-a694e0e61b3a.png)
+
+21. Determine LT para los circuitos de la figura 13-37. 
+
+![image](https://user-images.githubusercontent.com/85320165/130699616-826d829d-adbc-47f1-b83e-741784e73234.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130699661-11d9484d-d0a5-4579-94d0-a0800ecb5c95.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130699696-3dd9ed03-957f-4b76-9d29-f919b6c409ba.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130699753-2693d567-b463-4362-8de2-4f82018d7d2b.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130699783-3510a86f-8f27-420f-8145-f62771504ae7.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130699855-70189fa9-7274-4914-bc30-310ac94ee37b.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130699925-1a45aade-2b25-4dd6-a42e-adb033988570.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130699952-ed4e4e49-ca8e-4a91-ab5a-72b42bd63822.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130700123-9ff9b1fc-b231-4544-bcaa-e777ef0f9f11.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130700070-90b4e2f1-9b71-478d-9474-6815e90d86bb.png)
+
+23. Una inductancia de 30 uH está conectada en serie con una inductancia de 60
+uH, y una inductancia de 10 uH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
+
+![image](https://user-images.githubusercontent.com/85320165/130700244-a02bb276-3875-4d84-99c4-b8481c5e0a40.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130700273-65b82d2e-d178-418b-b197-2d73ffc1ee78.png)
+
+
+
+
 
 
 #  Capitulo 14 (Transitorios inductivos)
