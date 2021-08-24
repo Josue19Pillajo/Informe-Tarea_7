@@ -15,7 +15,7 @@ Tema: Capitulo 13 (Inductancia e inductores) y capitulo 14 (Transitorios inducti
 
 # 1. OBJEIVOS
 
-Anañizar  y sintetizar el estudio o  el tema de la inductancia  e inductores además  de los transistores inductivos  aplicando las diferentes formas de solución aprendidas  teoricamente y propuestos en clase.
+Analizar y  sintetizar el estudio o el tema de la inductancia e inductores además de los transistores inductivos aplicando las diferentes formas de solución aprendidas teoricamente y propuestos en clase.
 
 
 # 2. MARCO TÉORICO
