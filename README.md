@@ -137,19 +137,51 @@ uH, y una inductancia de 10 uH está conectada en paralelo con la combinación e
 
 
 
+17. Dado vL=-2700 Ve^-100t. Use la curva universal de la constante de tiempo para determinar vL en t=20 ms.
 
 
 
+19. Para la figura 14-43, L=20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
+
+![1](https://user-images.githubusercontent.com/85522189/130702659-a3c0100d-edda-4c1d-bf29-d09bb29cf780.PNG)
+
+![2](https://user-images.githubusercontent.com/85522189/130702682-5a90701e-b651-4541-91c1-52287bb62d0c.PNG)
 
 
+21. Para la bobina de la figura 14-45 R= 1.7  y L=150 mH. Determine la corriente de la bobina en t=18.4 ms.
+
+![3](https://user-images.githubusercontent.com/85522189/130702800-e3dc02aa-9d12-4063-8454-c0ff7c05ae5b.PNG)
+
+![4](https://user-images.githubusercontent.com/85522189/130702832-453a0f43-debc-4cad-9724-78d635b0c2d2.PNG)
 
 
+23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
+a. Determine la constante de tiempo del circuito desenergizado.
+b. Determine las ecuaciones para iL y vL.
+c. Encuentre el voltaje en el inductor y la corriente a través de él en t =17.8s, use las ecuaciones que se determinaron antes.
 
+![5](https://user-images.githubusercontent.com/85522189/130703509-ad1bd840-c0a3-4ed2-bb7a-26dcc538e2fa.PNG)
 
+![6](https://user-images.githubusercontent.com/85522189/130703527-c6c846e6-6c53-4ee9-a563-ad13db149b4e.PNG)
 
+![7](https://user-images.githubusercontent.com/85522189/130703546-26a3e0f1-830a-4dd6-afa1-31aad8440979.PNG)
 
+![8](https://user-images.githubusercontent.com/85522189/130703552-c2cb9318-523a-4ff0-8cd9-2b4030993cf9.PNG)
 
+25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47.
+b. ¿Cuánto es iL y vL en t=25 ms?
 
+![9](https://user-images.githubusercontent.com/85522189/130703920-74634d56-e012-4c0c-947c-d63755056f16.PNG)
+
+![10](https://user-images.githubusercontent.com/85522189/130703928-a107975e-11da-4dad-86f2-7cf0dc5d5875.PNG)
+
+27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en
+corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del
+inductor, 2.5 ms después que el interruptor se ha cerrado.
+
+![11](https://user-images.githubusercontent.com/85522189/130704117-cc3b4a6c-f435-460f-b53d-451b026e867b.PNG)
+
+![12](https://user-images.githubusercontent.com/85522189/130704134-f2e6398a-d07e-4264-b0c7-91e705e4243e.PNG)
 
 # 4. VIDEO
 
