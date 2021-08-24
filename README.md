@@ -55,3 +55,28 @@ Anañizar  y sintetizar el estudio o  el tema de la inductancia  e inductores ad
 
 
 
+
+
+
+# 4.
+
+# 5.
+
+# 6.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
