@@ -75,6 +75,15 @@ b. Determine la forma de onda de la corriente y grafíquela.
 ![17](https://user-images.githubusercontent.com/84783236/130696409-4755e4d3-269d-42c8-9383-a1c7236af1ef.png)
 ![18](https://user-images.githubusercontent.com/84783236/130696412-88c67fa8-f1eb-42bf-bbc7-a544ed8bfce8.png)
 ![19](https://user-images.githubusercontent.com/84783236/130696414-4fe8d690-0a34-4573-bb3c-0b7e9594676e.png)
+![20](https://user-images.githubusercontent.com/84783236/130696502-358565bd-6992-4095-a9b0-112014956495.png)
+
+c. ¿Cuál es la corriente en t 10 s?
+
+![21](https://user-images.githubusercontent.com/84783236/130696557-ca0490c3-6842-4f87-8162-5b46ce5bd7b0.png)
+
+17. ¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en serie?
+
+![22](https://user-images.githubusercontent.com/84783236/130696607-70f12bf6-fb09-4dbe-968d-4c3fafbc6ef8.png)
 
 
 
