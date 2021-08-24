@@ -120,7 +120,17 @@ uH, y una inductancia de 10 uH está conectada en paralelo con la combinación e
 
 25. Para los circuitos de la figura 13-40, determine L3 y L4
 
-![image](https://user-images.githubusercontent.com/85320165/130701083-9403404b-61f8-4553-83f4-d29b6124f974.png)
+![image](https://user-images.githubusercontent.com/85320165/130704588-0ecb37bb-6ef2-4a5e-9691-1332fb454044.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130704619-e44a92bc-03e0-4555-b33f-a8f3ef292646.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130704638-f50b13b1-fe36-4058-a5c6-06684fa50243.png)
+
+27.Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que
+se agrega una tercera inductancia, LT  4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
+
+
+
 
 
 
