@@ -139,6 +139,29 @@ se agrega una tercera inductancia, LT  4 H. ¿Cuál es el valor de la tercera in
 31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos
 de la figura 13-42 a su forma más simple. 
 
+![image](https://user-images.githubusercontent.com/85320165/130706834-8fa91b7d-d79f-43d5-9599-496da6479da7.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130706850-cc9f7938-643e-4eb5-8eaa-96aebc199cce.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130706876-2af92cff-b2bb-40e0-995f-be23855f4f6e.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130706883-443d9630-c242-4b66-b5c4-bf19ac9da34c.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130706900-2a7035d8-f257-4dbd-a8b7-04d8505a1cc8.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130706920-fb66a23d-9ab0-4863-a988-5784f54152d4.png)
+
+33. Encuentre la energía almacenada en el inductor de la figura 13-44.
+
+![image](https://user-images.githubusercontent.com/85320165/130707030-501b8b7f-253c-41f1-b6ad-423e6bf389d1.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130707054-9de698ff-2f6b-494f-97fa-399aff2b7215.png)
+
+![image](https://user-images.githubusercontent.com/85320165/130707086-d8dc9c74-2789-44fa-a1bb-073f7d203520.png)
+
+
+
+
 
 
 
