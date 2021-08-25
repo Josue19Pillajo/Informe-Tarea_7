@@ -26,6 +26,7 @@ Analizar y  sintetizar el estudio o el tema de la inductancia e inductores adem�
 
 # CÁPITULO 14
 
+![image](https://user-images.githubusercontent.com/85320165/130726012-6bf5e5e1-40fd-4302-8e5d-a2c742787a42.png)
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
