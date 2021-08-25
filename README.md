@@ -129,6 +129,17 @@ uH, y una inductancia de 10 uH está conectada en paralelo con la combinación e
 27.Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que
 se agrega una tercera inductancia, LT  4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
 
+![image](https://user-images.githubusercontent.com/85320165/130705411-e5c68d42-eb3c-462d-8106-7ba7611a43e7.png)
+
+29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT
+6 H, ¿cómo están conectados los inductores?
+
+![image](https://user-images.githubusercontent.com/85320165/130705465-071f5d95-b46d-4203-bcdc-9c45ba52ad88.png)
+
+31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos
+de la figura 13-42 a su forma más simple. 
+
+
 
 
 
